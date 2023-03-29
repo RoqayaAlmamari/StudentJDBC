@@ -17,6 +17,10 @@ public class Student {
         this.major = major;
     }
 
+    public Student() {
+
+    }
+
     // getters and setters
 
     public int getId() {
